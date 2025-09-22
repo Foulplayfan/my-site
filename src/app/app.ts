@@ -8,5 +8,7 @@ import { Component, signal } from '@angular/core';
 })
 export class App {
   protected readonly title = signal('my-site');
-  name : string = 'Angular';
+  name : string = 'Faariz';
+  age : number = 20;
+  isGraduated : boolean = false;
 }
