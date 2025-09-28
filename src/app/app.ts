@@ -1,14 +1,16 @@
-import { Component, signal } from '@angular/core';
+import { Component, Renderer2, AfterViewInit } from '@angular/core';
+import { HeaderComponent } from './components/header/header';
+import { FooterComponent } from './components/footer/footer';
+import { RouterModule } from '@angular/router';
+import { AppService } from './services/app.service';
 
 @Component({
   selector: 'app-root',
-  imports: [],
   templateUrl: './app.html',
-  styleUrls: ['./app.scss']
+  styleUrls: ['./app.scss'],
+  standalone: true,
+  imports: [HeaderComponent, FooterComponent, RouterModule]
 })
-export class App {
-  protected readonly title = signal('my-site');
-  name : string = 'Faariz';
-  age : number = 20;
-  isGraduated : boolean = false;
+export class AppComponent {
+  constructor(private appService: AppService, private renderer: Renderer2) { }
 }
